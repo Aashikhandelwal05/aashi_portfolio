@@ -53,7 +53,7 @@ cd portfolio-website
 ```
 3. Open index.html in your browser to view the website.
 ---
-## Contact
+## 📬 Contact
 
 Email: aashikhandelwal05@gmail.com
 
@@ -64,7 +64,7 @@ GitHub: github.com/Aashikhandelwal05
 
 ---
 
-## license
+## 📄 license
 This project is open source and free to use under the MIT License.
 
 Feel free to use, modify, and distribute this code as per the terms of the MIT License.
